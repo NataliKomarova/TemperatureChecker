@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/web/service/GetTemperature.java=UTF-8
+encoding//src/web/service/GetTemperatureService.java=UTF-8
+encoding//src/web/service/GetTemperatureServiceLocator.java=UTF-8
+encoding//src/web/service/GetTemperatureSoapBindingStub.java=UTF-8
+encoding//src/web/service/SetTemperature.java=UTF-8
+encoding//src/web/service/SetTemperatureService.java=UTF-8
+encoding//src/web/service/SetTemperatureServiceLocator.java=UTF-8
+encoding//src/web/service/SetTemperatureSoapBindingStub.java=UTF-8
